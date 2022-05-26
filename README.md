@@ -1,2 +1,2 @@
-# vs-cap-developer-setup
-VSCode setup for SAP CAP development
+# VSCode setup of SAP CAP development
+To install just copy settings.json into your VSCode settings and run install-extensions.ps1 in the powershell...
