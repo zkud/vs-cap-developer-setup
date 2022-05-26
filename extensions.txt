@@ -15,4 +15,3 @@ SAPSE.sap-ux-help-extension
 SAPSE.sap-ux-service-modeler-extension
 SAPSE.vscode-cds
 TabNine.tabnine-vscode
-vscodevim.vim
