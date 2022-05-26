@@ -1,0 +1,7 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "files.eol": "\n",
+    "[javascript]": {
+        "editor.tabSize": 2
+    }
+}
